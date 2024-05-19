@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning, specifically in image processing, IoT and little bit on NLP.
+- 🔭 I’m currently working on Deep Learning, specifically in image processing, NLP and little bit on IoT.
 - 🌱 I’m currently learning Cloud Analytics and advance Deep Learning like building parallel networks, GANs, etc.
 - 🧐 Interests: GANs, Deep RL, Quantum Computing, PC Builds.
 - 📫 How to reach me: shoot me an email at workbysticktoy@gmail.com
