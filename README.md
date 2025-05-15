@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Deep Learning, specifically in image processing, NLP and little bit on IoT.
 - 💬 Ask me about **Deep Learning, PyTorch**
-- 🌱 I’m currently learning **PyTorch, LLMs and Reinforcement Learning** and advanced Deep Learning like building parallel networks, GANs, RL Models, etc.
+- 🌱 I’m currently learning **PyTorch, LLMs, diffusion and Reinforcement Learning** and advanced Deep Learning like building parallel networks, GANs, RL Models, etc.
 - 🧐 Interests: GANs, Deep RL, Quantum Computing, PC Builds.
 - 📫 How to reach me: shoot me an email at workbysticktoy@gmail.com
 
